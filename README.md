@@ -37,5 +37,5 @@ The goal of this project is to **analyze customer purchase behavior**, **recomme
 ---
 Done By:
 Mahith sai reddy,
-Charan teja
+B.Charan teja
 
